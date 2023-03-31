@@ -1,1 +1,3 @@
 # go-redis-proxy
+
+since i've told before,i'd like to rewrite some middleware in go, i think go-redis-proxy would be a very good beginning...
